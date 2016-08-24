@@ -1,0 +1,14 @@
+layout_spectrum: 0.2365429
+typography_spectrum: 0.7152631
+color:
+  saturation: 0.6397243
+  lightness: 0.6660401
+  brandStrength: 0.06654168
+  brandColors:
+    - '#D1BC9D'
+    - '#1E1214'
+    - '#805242'
+    - '#04E7C4'
+    - '#3EB49C'
+  rhythmicContrast: 0.9367168
+name: garethedwards
